@@ -1,0 +1,2 @@
+# Data format
+The input data should be in semicolon seperated foramt. Default file name is `h1b_input.csv`. If use another name, please update the `INPUT_FILE` parameter in the `h1b_counting.py` script.
